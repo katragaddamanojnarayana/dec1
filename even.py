@@ -4,3 +4,5 @@ if(n>0):
         print("Even")
     else:
         print("Odd")
+else:
+    print("Invalid")
